@@ -29,7 +29,6 @@ Review First Class fulfillment operations, or adjust delivery-time promises for 
 ## Files in This Repo
 - `analysis_queries.sql` — all SQL queries used in this analysis
 - `dataco_dashboard.xlsx` — Excel workbook with summary tables and charts
-- `screenshots/` — key chart outputs
 
 ## Notes
 The raw dataset (~91MB) is not included in this repo. Download it directly from the [original source](https://data.mendeley.com/datasets/8gx2fvg2k6/5) to reproduce this analysis.
